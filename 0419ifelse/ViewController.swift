@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var iceLabel: UILabel!
     @IBOutlet weak var resultLabel: UILabel!
     var drinks = "紅茶"
-    var ice = "去冰"
+    var ice = "完全去冰"
     var sugar = "無糖"
     var material = "珍珠"
     
